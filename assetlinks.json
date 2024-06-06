@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "com.example.kanjitest",
+      "package_name": "com.example.kanjikenja",
+      "sha256_cert_fingerprints": [
+        "C2:3B:06:63:A3:B4:7D:BE:20:97:57:8B:2C:C1:6F:BA:11:CC:78:9E:5F:DF:89:72:15:8F:FA:8F:3C:6C:1D:D8"
+      ]
+    }
+  }
+]
