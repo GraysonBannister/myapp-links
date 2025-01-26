@@ -5,10 +5,10 @@
       "delegate_permission/common.get_login_creds"
     ],
     "target": {
-      "namespace": "com.example.kanjitest",
-      "package_name": "com.example.kanjikenja",
+      "namespace": "android_app",
+      "package_name": "com.graysoft.kanjikenja",
       "sha256_cert_fingerprints": [
-        "C2:3B:06:63:A3:B4:7D:BE:20:97:57:8B:2C:C1:6F:BA:11:CC:78:9E:5F:DF:89:72:15:8F:FA:8F:3C:6C:1D:D8"
+        "5A:6A:07:DB:A8:0B:0C:D4:55:89:40:55:5A:47:1B:5E:F3:05:AD:E7:2E:17:C4:F8:30:DB:36:0C:63:BC:7A:EB"
       ]
     }
   }
